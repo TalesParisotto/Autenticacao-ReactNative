@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312013397166",
+    "firebase_url": "https://autenticacaoreactnative.firebaseio.com",
+    "project_id": "autenticacaoreactnative",
+    "storage_bucket": "autenticacaoreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312013397166:android:5da1229ea56bacba",
+        "android_client_info": {
+          "package_name": "com.autenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312013397166-coe7opocgb2rjk3qllbukfafk656m0ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uFii40frOHZueuVWJFde87Cr4U8gk7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312013397166-coe7opocgb2rjk3qllbukfafk656m0ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
